@@ -1,0 +1,9 @@
+[submodule "input/benchmark/evoapproxlib"]
+	path = input/benchmark/evoapproxlib
+	url = git@github.com:changmg/evoapproxlib.git
+[submodule "espresso"]
+	path = espresso
+	url = git@github.com:changmg/espresso.git
+[submodule "abc"]
+	path = abc
+	url = git@github.com:changmg/abc.git
